@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\bin\Debug\net5.0\PeriodoAtras.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\bin\Debug\net5.0\PeriodoAtras.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\bin\Debug\net5.0\PeriodoAtras.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\bin\Debug\net5.0\PeriodoAtras.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\bin\Debug\net5.0\PeriodoAtras.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\bin\Debug\net5.0\PeriodoAtras.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\obj\Debug\net5.0\PeriodoAtras.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\obj\Debug\net5.0\PeriodoAtras.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\obj\Debug\net5.0\PeriodoAtras.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\obj\Debug\net5.0\PeriodoAtras.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\obj\Debug\net5.0\PeriodoAtras.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\obj\Debug\net5.0\PeriodoAtras.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\obj\Debug\net5.0\refint\PeriodoAtras.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\obj\Debug\net5.0\PeriodoAtras.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\obj\Debug\net5.0\PeriodoAtras.ConsoleApp.genruntimeconfig.cache
+C:\Users\Carlos Daniel\source\repos\Periodo_Atras\PeriodoAtras.ConsoleApp\PeriodoAtras.ConsoleApp\obj\Debug\net5.0\ref\PeriodoAtras.ConsoleApp.dll
