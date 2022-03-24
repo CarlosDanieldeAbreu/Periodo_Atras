@@ -12,7 +12,7 @@ namespace PeriodoAtras.ConsoleApp
         {
             DateTime data = Inserir();
             double dias = CalcularPeriodoAtras(data);
-            Console.WriteLine("Data atual" + DateTime.Now + " - " + "Data: " + data.ToString("dd/MM/yyyy") + " = " + DiasPorEscrito(dias) + " atrás");
+            Console.WriteLine("Data atual" + DateTime.Now + " - " + "Data: " + data.ToString("dd/MM/yyyy") + " = " + DiasPorEscrito(dias) + " atrás({0})", Math.Round(dias, 2));
             Console.ReadLine();
         }
 
@@ -61,7 +61,7 @@ namespace PeriodoAtras.ConsoleApp
             {
                 diasPorEscrito = "Um mês";
             }
-            else if (dias > 30 && dias < 365)
+            else if (dias >= 30 && dias <= 365)
             {
                 diasPorEscrito = "Mais de um mês";
             }
